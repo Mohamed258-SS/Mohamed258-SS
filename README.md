@@ -1,159 +1,115 @@
-# Hi I'm Mohamed Khaled Nassar 👋
+<h1 align="center">Hi 👋, I'm Mohamed Khaled Nassar</h1>
+<h3 align="center">Penetration Tester | Red Team Operator | Malware Analyst</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Nassar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/feed)](https://linkedin.com/feed)
-[![Gmail Badge](https://img.shields.io/badge/-mn54374-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mn54374@gmail.com)](mailto:mn54374@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-Mohamed258-SS-24292e?style=flat&logo=github&logoColor=white&link=https://github.com/Mohamed258-SS)](https://github.com/Mohamed258-SS)
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Penetration Tester Specialist | Malware Analyst | Reverse Engineer**  
-Graduated with a **B.Sc. in Cyber Security & Data Analysis Engineering (Class of 2026)** from *Faculty of Electronic Engineering, Menoufia University*.
-
-I work as a **Red Team Operator**, focusing on identifying vulnerabilities before attackers do.
-
-💡 My mission is simple:  
-> Think like an attacker. Act like a defender. Secure everything.
+<p align="center">
+  <a href="https://linkedin.com/feed"><img src="https://img.shields.io/badge/-Mohamed%20Nassar-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mn54374@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/Mohamed258-SS"><img src="https://img.shields.io/badge/-GitHub-24292e?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🎓 Education
+## 🧠 About Me
 
-- 🎓 **B.Sc. Cyber Security & Data Analysis Engineering**
-- 🏫 Faculty of Electronic Engineering, Menoufia University  
+🎯 **Cyber Security Engineer & Red Team Operator**  
+🎓 B.Sc. Cyber Security & Data Analysis Engineering – Class of 2026  
+
+I specialize in:
+- Penetration Testing (Web & Network)
+- Active Directory Attacks
+- Malware Analysis & Reverse Engineering
+
+💡 I focus on discovering vulnerabilities before attackers do and turning offensive insights into strong defensive strategies.
 
 ---
 
 ## 🚀 Projects
 
-### 🔐 SwiftSign – Digital Signature System
-- Developed a full-featured digital signature application
-- Supports multiple cryptographic algorithms
-- Modern GUI
-- 🏆 Grade: Excellent
+🔐 **SwiftSign – Digital Signature System**
+- Multi-algorithm cryptographic system (RSA, ECC, ElGamal, Diffie-Hellman)
+- Modern GUI  
+- 🏆 Grade: Excellent  
+
+🛡️ **SwiftGuard Antivirus (SGAVS)**
+- Custom antivirus scanner with GUI  
+- Static malware detection concepts  
+
+🌐 **Network & Port Scanner**
+- Host discovery & port scanning tool  
+- Practical recon & enumeration usage  
 
 ---
 
-### 🛡️ SGAVS – SwiftGuard Antivirus Scanner
-- Built a custom antivirus solution
-- Static detection concepts with GUI
-- Focused on malware detection basics
-
----
-
-### 🌐 Network & Port Scanner
-- Developed a network scanning tool
-- Host discovery & port analysis
-- Practical recon & enumeration tool
-
----
-
-## 🛠️ Skills & Tools
+## 🛠️ Technical Skills
 
 ### 🔴 Penetration Testing
-- Reconnaissance & Enumeration
-- Vulnerability Assessment
-- Exploitation & Privilege Escalation
-- Post-Exploitation
-- Web & Network Pentesting  
+`Nmap` `Burp Suite` `Metasploit` `Wireshark`  
+`Gobuster` `Nikto` `SQLmap` `Hydra` `John the Ripper`
 
-**Tools:**  
-`Nmap` `Burp Suite` `Metasploit` `Wireshark` `Gobuster` `Nikto` `SQLmap` `Hydra` `John the Ripper`  
-
----
+### 🧠 Red Teaming
+Active Directory Attacks • Privilege Escalation • Lateral Movement • Post-Exploitation  
 
 ### 🧬 Malware Analysis
-- Static & Dynamic Analysis  
-- Behavioral Monitoring  
-- IOC Extraction  
-
-**Tools:**  
 `Procmon` `Process Explorer` `PEStudio` `YARA` `Cuckoo Sandbox`
 
----
-
 ### 🔍 Reverse Engineering
-- Binary Analysis  
-- Debugging & Disassembly  
-- Unpacking Techniques  
-
-**Tools:**  
 `Ghidra` `IDA Free` `x64dbg` `OllyDbg` `Radare2`
 
----
-
 ### 🔐 Cryptography
-- Symmetric & Asymmetric Encryption  
-- Hashing & Digital Signatures  
-- Secure Communication  
-
-**Tools:**  
 `OpenSSL` `Hashcat`
 
----
-
-### 💻 Programming & Scripting
-- Python  
-- Bash  
-- C++  
-- Assembly  
-
-**Tools:**  
-`VS Code` `PyCharm` `Git`
+### 💻 Programming
+Python • Bash • C++ • Assembly  
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 CCNA v7 – Cisco Certified Network Associate  
-- 🛡️ ISC2 Certified in Cybersecurity (CC)  
-- 🏭 ICIP – Critical Infrastructure Protection  
+- CCNA v7 – Cisco  
+- ISC2 Certified in Cybersecurity (CC)  
+- ICIP – Critical Infrastructure Protection  
 
 ---
 
 ## 💼 Experience
 
-### 🏢 ELARABY Group
-- Internship (2022)
+🏢 **ELARABY Group** – Internship  
 
----
+🌐 **NTI (National Telecommunication Institute)**  
+- Routing, Switching, Wireless & Enterprise Networks  
 
-### 🌐 National Telecommunication Institute (NTI)
-- Network fundamentals (Routing, Switching, Wireless)
-- Enterprise Networks & Security  
+🧠 **Obrizum**  
+- Security Principles, Incident Response, BCP & DR  
 
----
-
-### 🧠 Obrizum
-- Security Principles  
-- Incident Response  
-- Business Continuity & Disaster Recovery  
-
----
-
-### 🛡️ OPSWAT Academy
+🛡️ **OPSWAT Academy**  
 - Critical Infrastructure Protection  
-- Risk Assessment & Mitigation  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed258-SS&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed258-SS&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🌍 Languages
 
-- 🇪🇬 Arabic (Native)
-- 🇬🇧 English (Professional)
+- Arabic 🇪🇬 (Native)
+- English 🇬🇧 (Professional)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: mn54374@gmail.com  
-- 📱 Phone: +20 1288299190  
-- 💼 LinkedIn: https://linkedin.com/feed  
-- 🐙 GitHub: https://github.com/Mohamed258-SS 
+- 📧 mn54374@gmail.com  
+- 📱 +20 1288299190  
+- 💼 https://linkedin.com/feed  
 
 ---
 
-## ⚡ Final Thought
+## ⚡ Philosophy
 
 > "Offense informs defense — the better you attack, the stronger you secure."

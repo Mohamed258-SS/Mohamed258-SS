@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khaled Nassar</h1>
-<h3 align="center">Penetration Tester | Red Team Operator | Malware Analyst</h3>
+<h3 align="center">Penetration Tester | Malware Analyst | Reverse Engineering</h3>
 
 <p align="center">
   <a href="https://linkedin.com/feed"><img src="https://img.shields.io/badge/-Mohamed%20Nassar-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-🎯 **Cyber Security Engineer & Red Team Operator**  
+🎯 **Cyber Security Engineer**  
 🎓 B.Sc. Cyber Security & Data Analysis Engineering – Faculty of Electronic Engineering, Menoufia University - Class of 2026  
 
 I specialize in:

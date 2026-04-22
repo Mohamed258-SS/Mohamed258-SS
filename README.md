@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Nassar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/feed)](https://linkedin.com/feed)
 [![Gmail Badge](https://img.shields.io/badge/-mn54374-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mn54374@gmail.com)](mailto:mn54374@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/-rayder54321-24292e?style=flat&logo=github&logoColor=white&link=https://github.com/Mohamed258-SS)](https://github.com/Mohamed258-SS)
+[![GitHub Badge](https://img.shields.io/badge/-Mohamed258-SS-24292e?style=flat&logo=github&logoColor=white&link=https://github.com/Mohamed258-SS)](https://github.com/Mohamed258-SS)
 
 ---
 

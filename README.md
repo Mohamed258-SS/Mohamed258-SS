@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 🎯 **Cyber Security Engineer**  
-🎓 B.Sc. Cyber Security & Data Analysis Engineering – Faculty of Electronic Engineering, Menoufia University - Class of 2026  
+🎓 B.Sc. Cyber Security & Data Analysis Engineering – Faculty of Electronic Engineering, Menoufia University
 
 I specialize in:
 - Penetration Testing 

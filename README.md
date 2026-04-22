@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 🎯 **Cyber Security Engineer & Red Team Operator**  
-🎓 B.Sc. Cyber Security & Data Analysis Engineering – Class of 2026  
+🎓 B.Sc. Cyber Security & Data Analysis Engineering – Faculty of Electronic Engineering, Menoufia University - Class of 2026  
 
 I specialize in:
 - Penetration Testing 

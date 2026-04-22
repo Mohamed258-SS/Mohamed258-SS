@@ -15,8 +15,7 @@
 🎓 B.Sc. Cyber Security & Data Analysis Engineering – Class of 2026  
 
 I specialize in:
-- Penetration Testing (Web & Network)
-- Active Directory Attacks
+- Penetration Testing 
 - Malware Analysis & Reverse Engineering
 
 💡 I focus on discovering vulnerabilities before attackers do and turning offensive insights into strong defensive strategies.
@@ -26,7 +25,7 @@ I specialize in:
 ## 🚀 Projects
 
 🔐 **SwiftSign – Digital Signature System**
-- Multi-algorithm cryptographic system (RSA, ECC, ElGamal, Diffie-Hellman)
+- Multi-algorithm cryptographic system 
 - Modern GUI  
 - 🏆 Grade: Excellent  
 
@@ -45,9 +44,6 @@ I specialize in:
 ### 🔴 Penetration Testing
 `Nmap` `Burp Suite` `Metasploit` `Wireshark`  
 `Gobuster` `Nikto` `SQLmap` `Hydra` `John the Ripper`
-
-### 🧠 Red Teaming
-Active Directory Attacks • Privilege Escalation • Lateral Movement • Post-Exploitation  
 
 ### 🧬 Malware Analysis
 `Procmon` `Process Explorer` `PEStudio` `YARA` `Cuckoo Sandbox`

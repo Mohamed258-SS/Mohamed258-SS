@@ -1,76 +1,159 @@
-# Hi I'm Mohamed Nassar 👋
+# Hi I'm Mohamed Khaled Nassar 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Nassar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
-[![Gmail Badge](https://img.shields.io/badge/-your_email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:your_email@gmail.com)](mailto:your_email@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-MohamedNassar-24292e?style=flat&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Nassar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/feed)](https://linkedin.com/feed)
+[![Gmail Badge](https://img.shields.io/badge/-mn54374-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mn54374@gmail.com)](mailto:mn54374@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-rayder54321-24292e?style=flat&logo=github&logoColor=white&link=https://github.com/rayder54321)](https://github.com/rayder54321)
 
 ---
 
 ## 👨‍💻 About Me
 
-Welcome to my profile!
+I'm a **Penetration Tester Specialist | Malware Analyst | Reverse Engineer**  
+Graduated with a **B.Sc. in Cyber Security & Data Analysis Engineering (Class of 2026)** from *Faculty of Electronic Engineering, Menoufia University*.
 
-I'm a **Cyber Security Engineer & Penetration Tester** with a strong passion for offensive security, red teaming, and vulnerability research.  
-Graduated in **Cyber Security & Data Analysis Engineering (2026)**.
+I work as a **Red Team Operator**, focusing on identifying vulnerabilities before attackers do.
 
-I specialize in:
-- Penetration Testing
-- Malware Analysis & Reverse Engineering
-- Cryptography
+💡 My mission is simple:  
+> Think like an attacker. Act like a defender. Secure everything.
 
-I enjoy breaking systems to understand how to secure them better 🔐
+---
+
+## 🎓 Education
+
+- 🎓 **B.Sc. Cyber Security & Data Analysis Engineering**
+- 🏫 Faculty of Electronic Engineering, Menoufia University  
+
+---
+
+## 🚀 Projects
+
+### 🔐 SwiftSign – Digital Signature System
+- Developed a full-featured digital signature application
+- Supports multiple cryptographic algorithms
+- Modern GUI
+- 🏆 Grade: Excellent
+
+---
+
+### 🛡️ SGAVS – SwiftGuard Antivirus Scanner
+- Built a custom antivirus solution
+- Static detection concepts with GUI
+- Focused on malware detection basics
+
+---
+
+### 🌐 Network & Port Scanner
+- Developed a network scanning tool
+- Host discovery & port analysis
+- Practical recon & enumeration tool
 
 ---
 
 ## 🛠️ Skills & Tools
 
 ### 🔴 Penetration Testing
-- Nmap, Metasploit, Burp Suite, Wireshark
-- Nessus, OpenVAS
+- Reconnaissance & Enumeration
+- Vulnerability Assessment
+- Exploitation & Privilege Escalation
+- Post-Exploitation
+- Web & Network Pentesting  
 
+**Tools:**  
+`Nmap` `Burp Suite` `Metasploit` `Wireshark` `Gobuster` `Nikto` `SQLmap` `Hydra` `John the Ripper`  
 
-### 🧬 Malware Analysis & Reverse Engineering
-- IDA Pro, Ghidra
-- x64dbg
-- Static & Dynamic Analysis
+---
+
+### 🧬 Malware Analysis
+- Static & Dynamic Analysis  
+- Behavioral Monitoring  
+- IOC Extraction  
+
+**Tools:**  
+`Procmon` `Process Explorer` `PEStudio` `YARA` `Cuckoo Sandbox`
+
+---
+
+### 🔍 Reverse Engineering
+- Binary Analysis  
+- Debugging & Disassembly  
+- Unpacking Techniques  
+
+**Tools:**  
+`Ghidra` `IDA Free` `x64dbg` `OllyDbg` `Radare2`
+
+---
 
 ### 🔐 Cryptography
-- Symmetric & Asymmetric Encryption
-- Hashing Algorithms
-- Digital Signatures
+- Symmetric & Asymmetric Encryption  
+- Hashing & Digital Signatures  
+- Secure Communication  
+
+**Tools:**  
+`OpenSSL` `Hashcat`
+
+---
 
 ### 💻 Programming & Scripting
-- Python
-- Assembly
-- Bash
-- C / C++
-- PowerShell
+- Python  
+- Bash  
+- C++  
+- Assembly  
+
+**Tools:**  
+`VS Code` `PyCharm` `Git`
 
 ---
 
-## 🚀 Projects
+## 📜 Certifications
 
-- 🔹 **SwiftSign** – Digital Signature System supporting multiple algorithms (RSA, ECC, ElGamal, Diffie-Hellman)
-- 🔹 **Penetration Testing Reports** – Real-world styled security assessments
-- 🔹 **Custom Security Tools** – Scripts for automation & exploitation
-
----
-
-## 📊 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+- 🏅 CCNA v7 – Cisco Certified Network Associate  
+- 🛡️ ISC2 Certified in Cybersecurity (CC)  
+- 🏭 ICIP – Critical Infrastructure Protection  
 
 ---
 
-## 🌐 Let's Connect
+## 💼 Experience
 
-- 💼 LinkedIn: https://www.linkedin.com/feed/
-- 📧 Email: mn54374@gmail.com
-- 🐙 GitHub: https://github.com/Mohamed258-SS
+### 🏢 ELARABY Group
+- Internship (2022)
 
 ---
 
-## ⚡ Fun Fact
+### 🌐 National Telecommunication Institute (NTI)
+- Network fundamentals (Routing, Switching, Wireless)
+- Enterprise Networks & Security  
 
-> "Security is not a product, it's a process."  
-> I don’t just find vulnerabilities… I understand them.
+---
+
+### 🧠 Obrizum
+- Security Principles  
+- Incident Response  
+- Business Continuity & Disaster Recovery  
+
+---
+
+### 🛡️ OPSWAT Academy
+- Critical Infrastructure Protection  
+- Risk Assessment & Mitigation  
+
+---
+
+## 🌍 Languages
+
+- 🇪🇬 Arabic (Native)
+- 🇬🇧 English (Professional)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: mn54374@gmail.com  
+- 📱 Phone: +20 1288299190  
+- 💼 LinkedIn: https://linkedin.com/feed  
+- 🐙 GitHub: https://github.com/Mohamed258-SS 
+
+---
+
+## ⚡ Final Thought
+
+> "Offense informs defense — the better you attack, the stronger you secure."
